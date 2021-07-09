@@ -1,4 +1,4 @@
-export default {
+ {
   config: { view: { continuousWidth: 400, continuousHeight: 300 } },
   data: { name: 'data-5b1497d497c05ebe7ac46c4d54bc35e9' },
   mark: { type: 'rect', color: '#304ca2' },
